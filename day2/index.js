@@ -154,8 +154,8 @@ function greet(name) {
     hours < 10 ? console.log('0' + hours) : console.log(hours);
 
     if(hours < 10){
-        console.log('ten')
+        console.log('ten');
     }
-    
+
     hours < 10 && console.log('ten')
     // normal code 
